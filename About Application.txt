@@ -1,0 +1,11 @@
+About Project				Project Details
+
+Project Name			:	Christina-ProjectNodeJs-UtaraProduction
+Package Name			:	loan-management-bank
+Project Platform			:	NodeJS Framework
+Programming Language Used	:	NodeJS Language
+Developer Name			:	Christina Apriani
+IDE Tool (Recommended)		:	VS Code
+Project Type			:	Web Application
+Database				:	MySQL
+
